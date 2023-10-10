@@ -44,4 +44,4 @@ my_cur.execute("insert into fruit_load_list_values('from Streamlit')")
 # with my_cnx.cursor() as my_cur:
  # my_cur.execute("insert into fruit_load_list_values('jackfruit'+'papaya'+'guava'+'kiwi')")
  # return "Thanks for adding" + new_fruit
- 
+
